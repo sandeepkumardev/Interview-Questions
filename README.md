@@ -15,16 +15,9 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-<details><summary><b>Contributors List</b></summary>
-
-- [@vickydonor-99](https://github.com/vickydonor-99)
-- [@AurobindoGupta](https://github.com/AurobindoGupta)
-
-</details>
-
 ---
 
-Choose any route: 
+Choose any route:
 
 **1. <a href="https://github.com/sandeepkumardev/JavaScript-Questions/blob/master/Javascript.md" style="text-decoration: none">Javascript
 </a>**
