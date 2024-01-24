@@ -132,7 +132,10 @@ The border property allows you to style borders with different widths, styles (e
 <details><summary><b>Answer</b></summary>
 In CSS, elements can be categorized as either inline or block-level based on their default display behavior within the HTML document. Here are the key differences:
 
-<img src="https://d2mk45aasx86xg.cloudfront.net/Difference_between_inline_and_block_elements_c995170809.jpg" >
+<div align="center">
+  <img src="https://d2mk45aasx86xg.cloudfront.net/Difference_between_inline_and_block_elements_c995170809.jpg" >
+</div>
+
 </details>
 
 ###### 10. How do you apply CSS styles to only the first letter of a paragraph?
