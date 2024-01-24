@@ -19,13 +19,13 @@ Please adhere to this project's `code of conduct`.
 
 Choose any route:
 
-**1. <a href="https://github.com/sandeepkumardev/JavaScript-Questions/blob/master/Javascript.md" style="text-decoration: none">Javascript
+**1. <a href="https://github.com/sandeepkumardev/Interview-Questions/blob/master/Javascript.md" style="text-decoration: none">Javascript
 </a>**
 
-**2. <a href="https://github.com/sandeepkumardev/JavaScript-Questions/blob/master/React.md">
+**2. <a href="https://github.com/sandeepkumardev/Interview-Questions/blob/master/React.md">
 React Js
 </a>**
 
-**3. <a href="https://github.com/sandeepkumardev/JavaScript-Questions/blob/master/CSS.md">
+**3. <a href="https://github.com/sandeepkumardev/Interview-Questions/blob/master/CSS.md">
 CSS
 </a>**
