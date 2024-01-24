@@ -1,6 +1,7 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <img height="60" src="https://img.icons8.com/ultraviolet/80/000000/react--v2.png"/>
+  <img height="60" src="https://img.icons8.com/ultraviolet/80/000000/css--v2.png"/>
   <h1>Interview Questions 🚀</h1>
 
 From basic to advanced: test how well you know JavaScript & React, refresh your knowledge a bit, or prepare for your coding interview! 💪
